@@ -470,6 +470,8 @@
 .why-us .why-content {
   color: #FFF;
   padding: 50px;
+  display: grid;
+  place-items: center;
 }
 .why-us .why-content .main-p {
   color: #b5c3c9;
