@@ -141,7 +141,6 @@ window.onload = function () {
   function countUp(el) {
     let n = Math.floor(2000 / el.dataset.count);
     el.textContent = 0;
-    // let dataCount = el.dataset.count;
     let interval = setInterval(function () {
       el.textContent++;
       if (el.textContent == el.dataset.count) {

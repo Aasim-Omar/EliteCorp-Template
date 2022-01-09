@@ -455,7 +455,7 @@
   margin: 10px 0;
 }
 
-/* Why Us */
+/** Why Us **/
 .why-us {
   padding: 0;
   background-color: var(--main-blue);
