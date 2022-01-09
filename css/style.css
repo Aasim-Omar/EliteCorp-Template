@@ -469,8 +469,6 @@
 .why-us .why-content {
   color: #FFF;
   padding: 50px;
-  display: grid;
-  place-items: center;
   background-color: var(--main-blue);
 }
 .why-us .why-content .main-p {
