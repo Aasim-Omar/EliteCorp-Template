@@ -458,6 +458,7 @@
 /* Why Us */
 .why-us {
   padding: 0;
+  background-color: var(--main-blue);
 }
 .why-us .why-image {
   overflow: hidden;
@@ -469,7 +470,6 @@
 .why-us .why-content {
   color: #FFF;
   padding: 50px;
-  background-color: var(--main-blue);
 }
 .why-us .why-content .main-p {
   color: #b5c3c9;

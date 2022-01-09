@@ -122,13 +122,6 @@ window.onload = function () {
     });
   });
 
-  // Set Content Box Height On WHy-us Section On large Screens
-  if (window.innerWidth >= 1200) {
-    let whyImage = document.querySelector(".why-us .why-image");
-    let whyContent = document.querySelector(".why-us .why-content");
-    whyContent.style.height = `${whyImage.clientHeight}px`;
-  }
-
   // Statistics Section
   let statistic = document.querySelector(".statistic");
   let stat = document.querySelectorAll(".statistic .stat .num");
