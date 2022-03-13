@@ -132,6 +132,7 @@
 /*************** Slider Section **************/
 .my-slider {
   position: relative;
+  overflow: hidden;
 }
 .my-slider .my-slider-content {
   position: absolute;

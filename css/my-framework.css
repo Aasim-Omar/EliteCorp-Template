@@ -31,7 +31,6 @@ body {
   padding: 0;
   font-family: "Segoe UI", Tahoma, Arial, Verdana, sans-serif;
   font-size: 15px;
-  overflow-x: hidden;
 }
 .container {
   margin-left: auto;
